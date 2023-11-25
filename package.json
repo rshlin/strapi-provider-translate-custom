@@ -1,0 +1,17 @@
+{
+  "name": "strapi-provider-translate-gpt",
+  "version": "1.0.0",
+  "description": "",
+  "strapi": {
+    "name": "strapi-provider-translate-gpt",
+    "description": "gpt translate provider",
+    "kind": "provider",
+    "displayName": "strapi-provider-translate-gpt"
+  },
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bottleneck": "^2.19.5"
+  }
+}
